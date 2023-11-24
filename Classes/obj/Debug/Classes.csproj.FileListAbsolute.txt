@@ -1,0 +1,6 @@
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\Classes\bin\Debug\Classes.dll
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\Classes\bin\Debug\Classes.pdb
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\Classes\obj\Debug\Classes.dll
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\Classes\obj\Debug\Classes.pdb
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache

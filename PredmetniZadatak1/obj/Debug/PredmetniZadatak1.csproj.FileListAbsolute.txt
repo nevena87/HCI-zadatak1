@@ -1,0 +1,52 @@
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe.config
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.pdb
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.AssemblyReference.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\App.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.lref
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.g.resources
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.Properties.Resources.resources
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.GenerateResource.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.exe
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.pdb
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Prikaz.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Prikaz.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\Classes.dll
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\Classes.pdb
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.CopyComplete
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Dodaj.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Dodaj.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Izmena.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Izmena.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Procitaj.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\Predmetni zadatak 1\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Procitaj.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe.config
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.exe
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\PredmetniZadatak1.pdb
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\Classes.dll
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\bin\Debug\Classes.pdb
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.AssemblyReference.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Dodaj.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Izmena.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Prikaz.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Procitaj.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\App.g.cs
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1_MarkupCompile.lref
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Dodaj.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Izmena.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Prikaz.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\Procitaj.baml
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.g.resources
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.Properties.Resources.resources
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.GenerateResource.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.csproj.CopyComplete
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.exe
+C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\PredmetniZadatak1\obj\Debug\PredmetniZadatak1.pdb

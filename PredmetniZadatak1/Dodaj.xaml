@@ -1,0 +1,72 @@
+﻿<Window x:Class="PredmetniZadatak1.Dodaj"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PredmetniZadatak1"
+        mc:Ignorable="d"
+        Title="Dodaj" SizeToContent="WidthAndHeight" WindowStyle="None" AllowsTransparency="True" Background="Transparent">
+    <Canvas Width="910" Height="540" MouseLeftButtonDown="Canvas_MouseLeftButtonDown">
+        <Path Stroke="SteelBlue" StrokeThickness="1" Name="UIPath" Height="539" Stretch="Fill" Width="912">
+            <Path.Fill>
+                <ImageBrush ImageSource="HCI-Nemanjici.jpg"/>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="0,50">
+                        <LineSegment Point="0,300"/>
+                        <ArcSegment Size="150,150" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="50,350" />
+                        <LineSegment Point="500,350"/>
+                        <ArcSegment Size="150,150" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="550,300" />
+                        <LineSegment Point="550, 50"/>
+                        <ArcSegment Size="150,150" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="500,0"/>
+                        <LineSegment Point="50,0"/>
+                        <ArcSegment Size="150,150" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="0,50"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+
+        <Grid Width="910" Height="540">
+            <Button x:Name="buttonDodaj" FontStyle="Italic" BorderBrush="Black" BorderThickness="1" Content="Dodaj" FontFamily="Times New Roman" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="102" Canvas.Top="476" Width="220" Height="50" Background="SteelBlue" FontSize="30" Click="buttonDodaj_Click" RenderTransformOrigin="0.581,1.986" Margin="207,468,0,0"/>
+            <Button x:Name="buttonIzađi" FontStyle="Italic" BorderBrush="Black" BorderThickness="1" Content="Izađi" FontFamily="Times New Roman" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="606" Canvas.Top="473" Width="220" Height="50" Background="SteelBlue" FontSize="30" Click="buttonIzađi_Click" RenderTransformOrigin="9.298,11.069" Margin="478,468,0,0"/>
+            <Button x:Name="buttonBrowse" FontStyle="Italic" BorderBrush="Black" BorderThickness="1" Content="Browse" Width="100" FontFamily="Times New Roman" Height="25" Background="#dce4e8" FontSize="15" Canvas.Left="410" Canvas.Top="33" Click="buttonBrowse_Click" RenderTransformOrigin="1.31,0.514" Margin="164,375,646,140"/>
+            <Label x:Name="labelIme" FontStyle="Italic" FontFamily="Times New Roman" Content="Ime vladara" FontSize="17" VerticalContentAlignment="Center" Height="30" Canvas.Left="265" Canvas.Top="186" BorderBrush="Black" BorderThickness="1" Background="SteelBlue" Margin="144,121,669,389" RenderTransformOrigin="0.851,0.543" />
+            <Label x:Name="labelGodinaRodjenja" FontStyle="Italic" FontFamily="Times New Roman" Content="Godina rodjenja" Width="130" FontSize="17" VerticalContentAlignment="Center" Canvas.Left="265" Canvas.Top="230" BorderBrush="Black" BorderThickness="1" Background="SteelBlue" Margin="144,212,636,293"/>
+            <Label x:Name="labelaOpis" FontStyle="Italic" FontFamily="Times New Roman" Content="Opis vladara" FontSize="17" VerticalContentAlignment="Center" Height="30" Canvas.Left="265" Canvas.Top="276" BorderBrush="Black" BorderThickness="1" Background="SteelBlue" Margin="500,121,307,389" RenderTransformOrigin="0.5,-0.05"/>
+            <Label x:Name="labelaSlika" FontStyle="Italic" FontFamily="Times New Roman" Content="Unesite sliku"  FontSize="20" VerticalContentAlignment="Center" Canvas.Left="265" Canvas.Top="358" BorderBrush="Black" BorderThickness="1" Background="SteelBlue" RenderTransformOrigin="0.5,1.763" Margin="144,327,626,170"/>
+            <TextBox x:Name="textBoxIme" VerticalContentAlignment="Center" FontFamily="Times New Roman" TextWrapping="Wrap" BorderBrush="Black" BorderThickness="1" Width="260" Height="30" Canvas.Top="186" Canvas.Left="370" LostFocus="textBoxIme_LostFocus" GotFocus="textBoxIme_GotFocus" Margin="144,156,506,354" />
+            <TextBox x:Name="textBoxGodinaRodjenja" VerticalContentAlignment="Center" FontFamily="Times New Roman" TextWrapping="Wrap" BorderBrush="Black" BorderThickness="1"  Height="30" Width="260" Canvas.Top="230" Canvas.Left="370" LostFocus="textBoxGodinaRodjenja_LostFocus"  GotFocus="textBoxGodinaRodjenja_GotFocus" Margin="144,252,506,258" />
+
+            <DockPanel>
+                <ToolBar BorderThickness="1" BorderBrush="Black" DockPanel.Dock="Top" Height="30" Margin="487,-180,109.4,10">
+                    <ToggleButton Command="EditingCommands.ToggleBold" x:Name="tglButtonBold" >
+                        <Image Source="Bold.png"/>
+                    </ToggleButton>
+                    <ToggleButton Command="EditingCommands.ToggleItalic" x:Name="tglButtonItalic" >
+                        <Image Source="Italic.png"/>
+                    </ToggleButton>
+                    <ToggleButton Command="EditingCommands.ToggleUnderline" x:Name="tglButtonUnderline" BorderBrush="Black" >
+                        <Image Source="Underline.png"/>
+                    </ToggleButton>
+                    <Separator/>
+                    <ComboBox x:Name="ComboBoxFamily" Width="70" SelectionChanged="ComboBoxFamily_SelectionChanged"/>
+                    <ComboBox x:Name="ComboBoxSize" Width="65" SelectionChanged="ComboBoxSize_SelectionChanged"/>
+                    <ComboBox x:Name="ComboBoxColor" Width="70" SelectionChanged="ComboBoxColor_SelectionChanged"/>
+                </ToolBar>
+            </DockPanel>
+            <RichTextBox x:Name="RichTextBoxNemanjici" FontFamily="Times New Roman" SelectionChanged="RichTextBoxNemanjici_SelectionChanged" TextChanged="RichTextBoxNemanjici_TextChanged" Canvas.Left="384" Margin="500,189,122,140" BorderBrush="Black" />
+            <StatusBar BorderThickness="1" BorderBrush="Black" Margin="500,400,307,118" Background="White">
+                <TextBlock x:Name="TextBlockBrojReci"  Width="98" Height="18" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="12"/>
+            </StatusBar>
+        </Grid>
+
+        <TextBox x:Name="textBoxSlika" IsReadOnly="True" Canvas.Left="314" Canvas.Top="307" Width="159" Height="130" FontFamily="Times New Roman" FontStyle="Italic" Text="Slika" TextAlignment="Center" VerticalContentAlignment="Center" FontSize="15" TextWrapping="Wrap"/>
+        <Image x:Name="imageSlika" Width="159" Height="130" Canvas.Left="314" Canvas.Top="307" RenderTransformOrigin="0.25,0.5" />
+        <TextBox x:Name="textBoxGreskaIme" IsReadOnly="True" TextAlignment="Center" TextWrapping="Wrap" Text="" Width="152" VerticalContentAlignment="Center" Canvas.Left="248" Canvas.Top="169" Background="#00000000" BorderThickness="0"  Height="16"  FontSize="8" RenderTransformOrigin="0.5,0.5"></TextBox>
+        <TextBox x:Name="textBoxGreskaGodinaRodjenja" IsReadOnly="True" TextAlignment="Center"  TextWrapping="Wrap" Text="" Width="152" VerticalContentAlignment="Center" Canvas.Left="248" Canvas.Top="265" Background="#00000000" BorderThickness="0" Height="16" FontSize="8" RenderTransformOrigin="-1.002,13.269" />
+        <Border x:Name="borderSlika" Height="130" Width="159" Canvas.Left="314" Canvas.Top="307" BorderBrush="Black" BorderThickness="1">
+            <Label Name="labelaGreskaSlika" Content="" Height="25" Margin="0,105,0.2,-0.4"/>
+        </Border>
+    </Canvas>
+</Window>

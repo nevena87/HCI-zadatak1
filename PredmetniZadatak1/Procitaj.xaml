@@ -1,0 +1,38 @@
+﻿<Window x:Class="PredmetniZadatak1.Procitaj"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PredmetniZadatak1"
+        mc:Ignorable="d"
+        Title="Procitaj" Height="550" Width="900" WindowStyle="None" AllowsTransparency="True" Background="Transparent">
+    <Canvas Width="900" Height="550" MouseLeftButtonDown="Canvas_MouseLeftButtonDown">
+        <Path Stroke="Black" StrokeThickness="1" Name="UIPath" Height="550" Stretch="Fill" Width="900" Canvas.Top="0.2">
+            <Path.Fill>
+                <ImageBrush ImageSource="pozadina.jpg"/>
+            </Path.Fill>
+            <Path.Data>
+                <PathGeometry>
+                    <PathFigure StartPoint="0,50">
+                        <LineSegment Point="0,300"/>
+                        <ArcSegment Size="80,80" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="50,350" />
+                        <LineSegment Point="500,350"/>
+                        <ArcSegment Size="80,80" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="550,300" />
+                        <LineSegment Point="550, 50"/>
+                        <ArcSegment Size="80,80" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="500,0"/>
+                        <LineSegment Point="50,0"/>
+                        <ArcSegment Size="80,80" RotationAngle="180" IsLargeArc="False" SweepDirection="Clockwise" Point="0,50"/>
+                    </PathFigure>
+                </PathGeometry>
+            </Path.Data>
+        </Path>
+        <Grid Height="550" Width="906">
+            <TextBox x:Name="textBoxIme" FontStyle="Italic" HorizontalContentAlignment="Center" Padding="2" FontFamily="Times New Roman" FontSize="40" HorizontalAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" FontWeight="Bold" BorderThickness="0" Canvas.Top="150" Canvas.Left="300" Background="Transparent" Foreground="Black" Margin="250,65,255,425" Height="60" Width="401"/>
+            <Image x:Name="imageSlika" Canvas.Left="280" Canvas.Top="236" Margin="92,159,654,142"/>
+            <Button x:Name="buttonZatvori" FontStyle="Italic" BorderBrush="Black" BorderThickness="1" Content="Zatvori" FontSize="20" FontFamily="Times New Roman" Background="SaddleBrown" Canvas.Left="606" Canvas.Top="473" Click="buttonZatvori_Click" Margin="660,483,115,28"/>
+            <RichTextBox x:Name="richTextBoxNemanjici" BorderBrush="Black" BorderThickness="1" IsReadOnly="True" Canvas.Left="398" Canvas.Top="270" Margin="268,159,157,142"/>
+            <TextBox x:Name="textBoxGodinaRodjenja" BorderBrush="Black" BorderThickness="1" Foreground="Bisque" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  Padding="2" FontStyle="Italic" HorizontalAlignment="Center" FontFamily="Times New Roman" FontSize="14" FontWeight="Bold" Canvas.Left="280" Canvas.Top="354" Background="SaddleBrown" Margin="268,435,429,90" Width="209"/>
+            <TextBox x:Name="textBoxDatum" BorderBrush="Black" Foreground="Bisque" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"  Padding="2" FontStyle="Italic" HorizontalAlignment="Center" FontFamily="Times New Roman" TextWrapping="Wrap" FontSize="14" FontWeight="Bold" BorderThickness="1" Canvas.Top="230" Canvas.Left="398" Background="SaddleBrown" Margin="537,435,160,90" Width="209" Height="25"/>
+        </Grid>
+    </Canvas>
+</Window>

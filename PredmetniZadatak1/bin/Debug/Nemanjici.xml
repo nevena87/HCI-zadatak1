@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfNemanjici xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nemanjici>
+    <file>Stefan Nemanja.rtf</file>
+    <IsSelected>false</IsSelected>
+    <GodinaRodjenja>1166</GodinaRodjenja>
+    <Ime>Stefan Prvovencani</Ime>
+    <Datum>2023-03-30T14:56:39.7345359+02:00</Datum>
+    <Slika>C:\Users\Nevena\OneDrive\Radna površina\Inzenjerstvo upotrebljivosti\PredmetniZadatak1\slike\stefan prvovencani.jpg</Slika>
+    <File>Stefan Nemanja.rtf</File>
+  </Nemanjici>
+</ArrayOfNemanjici>
