@@ -1,2 +1,2 @@
-# HCI-zadatak1
+# WPF Project
 Predmet Inženjerstvo upotrebljivosti u infrastrukturnim sistemima
